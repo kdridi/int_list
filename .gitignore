@@ -1,0 +1,7 @@
+*.o
+*.gcda
+*.gcno
+*_tests
+*.html
+*~
+#*#
